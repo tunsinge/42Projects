@@ -1,5 +1,7 @@
 # 42Projects
+
 This is the repository with all my projects from School 42
+
 ---
 # My 42 School Cursus
 
