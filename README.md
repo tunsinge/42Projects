@@ -11,7 +11,7 @@ This is the repository with all my projects from School 42
 ## 📚 [Libft](https://github.com/TheFoxan12/42Libft) [![tunsinge's 42 Libft Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2859444)](https://projects.intra.42.fr/42cursus-libft/tunsinge)
 
 ## 📘 First Circle
-* ### 🖨 Ft_printf [![tunsinge's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2871147)](https://projects.intra.42.fr/42cursus-ft_printf/tunsinge)
+* ### 🖨 [Ft_printf](https://github.com/TheFoxan12/42Ft_printf) [![tunsinge's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2871147)](https://projects.intra.42.fr/42cursus-ft_printf/tunsinge)
 * ### ⌨️ Get_next_line [![tunsinge's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2871148)](https://projects.intra.42.fr/42cursus-get_next_line/tunsinge)
 * ### 💾 Born2beroot [![tunsinge's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2881196)](https://projects.intra.42.fr/born2beroot/tunsinge)
 
