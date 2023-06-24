@@ -8,7 +8,7 @@ This is the repository with all my projects from School 42
   <img align="center" src="https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/stats?cursusId=21&coalitionId=333" alt="tunsinge's 42 stats"/>
 </a>
 
-## 📚 Libft [![tunsinge's 42 Libft Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2859444)](https://projects.intra.42.fr/42cursus-libft/tunsinge)
+## 📚 [Libft](https://github.com/TheFoxan12/42Libft) [![tunsinge's 42 Libft Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2859444)](https://projects.intra.42.fr/42cursus-libft/tunsinge)
 
 ## 📘 First Circle
 * ### 🖨 Ft_printf [![tunsinge's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2871147)](https://projects.intra.42.fr/42cursus-ft_printf/tunsinge)
