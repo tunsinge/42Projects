@@ -40,8 +40,8 @@ This is the repository with all my projects from School 42
 ## 📕 Fifth Circle
 * ### 📋 Modules CPP
   - #### CPP05 [![tunsinge's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3131952)](https://github.com/JaeSeoKim/badge42)
-  - #### CPP06 [![tunsinge's 42 Cybersecurity Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3092305)](https://github.com/JaeSeoKim/badge42)
-  - #### CPP07
+  - #### CPP06 [![tunsinge's 42 Cybersecurity Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3142421)](https://github.com/JaeSeoKim/badge42)
+  - #### CPP07 [![tunsinge's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3143609)](https://github.com/JaeSeoKim/badge42)
   - #### CPP08
   - #### CPP09
 * ### 📡 Ft_irc [![tunsinge's 42 ft_irc Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3130101)](https://github.com/JaeSeoKim/badge42)
