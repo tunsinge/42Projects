@@ -4,10 +4,6 @@ This is the repository with all my projects from School 42
 ---
 # My 42 School Cursus
 
-<a href="https://profile.intra.42.fr/users/tunsinge">
-  <img align="center" src="https://badge.mediaplus.ma/darkblue/tunsinge?1337Badge=off&UM6P=off" alt="tunsinge's 42 stats"/>
-</a>
-
 ## 📚 [Libft](https://github.com/TheFoxan12/42Libft) ✅
 
 ## 📘 First Circle
