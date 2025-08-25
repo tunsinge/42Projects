@@ -57,5 +57,6 @@ This is the repository with all my projects from School 42
 * ### 📊 Dslr ⚡️
 
 ## Work Experiences
-* ### Work Experience I ✅
+* ### 🏙️ Work Experience I ✅
+* ### 🌆 Apprentissage 2 ans - 1ère année ⚡️
 ---
